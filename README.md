@@ -4,7 +4,7 @@
   <img src="https://i.ibb.co/c29mBjF/portfolio.jpg"/>
 </div>
 
-<div>
+
   <h2 align="center">
   ABOUT ME
 </h2>
@@ -26,7 +26,7 @@ I'm Narzis Nahar, a passionate Full Stack Developer with a keen interest in crea
 
 </div>
 </div>
-</div>
+
 
 
 <div align="center">
