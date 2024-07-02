@@ -9,7 +9,8 @@
   ABOUT ME
 </h2>
 
-  <p>
+ <div display="flex"> 
+  <div> <p>
    Hi there 👋
 I'm Narzis Nahar, a passionate Full Stack Developer with a keen interest in creating efficient, scalable, and user-friendly applications.</p>
 
@@ -19,9 +20,13 @@ I'm Narzis Nahar, a passionate Full Stack Developer with a keen interest in crea
 <p>💬 Ask me about anything related to web development, cloud computing, or any recent tech trends. I'm always up for a good tech talk!</p>
 <p>📫 How to reach me: Your Email or connect with me on LinkedIn<p>
 <p>⚡ Fun fact: When I'm not coding, you can find me exploring nature trails, playing chess, or experimenting with new recipes in the kitchen.</p>
+</div>
+<div> 
+ <img src="https://i.ibb.co/c6VpLXF/IMG-20220713-WA0011.jpg"/>
 
 </div>
-
+</div>
+</div>
 
 
 <div align="center">
