@@ -17,7 +17,14 @@
       <p>🌱 I’m always eager to learn new languages and frameworks. Currently, I'm diving deep into Next.js and React Native.</p>
       <p>👯 I’m looking to collaborate on open-source projects and innovative tech solutions that make a positive impact.</p>
       <p>💬 Ask me about anything related to web development, cloud computing, or any recent tech trends. I'm always up for a good tech talk!</p>
-      <p>📫 How to reach me: [Your Email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)</p>
+      <div align="center">
+  <h2 align="center">
+  SOCIAL MEDIA
+</h2>
+  
+  [<img src="https://i.ibb.co/C8tcfZR/linkedin-1.png">](linkedin.com/in/narzisnahar111/)
+[<img src="https://i.ibb.co/dMhMgBT/facebook-1.png">](https://www.facebook.com/narzisnaharsusoma/)
+</div>
       <p>⚡ Fun fact: When I'm not coding, you can find me exploring nature trails, playing chess, or experimenting with new recipes in the kitchen.</p>
     </td>
     <td>
@@ -25,7 +32,7 @@
     </td>
   </tr>
 </table>
-``
+
 
 
 
@@ -49,16 +56,10 @@
 
 </div>
 
-<div align="center">
-  <h2 align="center">
-  SOCIAL MEDIA
-</h2>
-  
-  [<img src="https://i.ibb.co/C8tcfZR/linkedin-1.png">](linkedin.com/in/narzisnahar111/)
-[<img src="https://i.ibb.co/dMhMgBT/facebook-1.png">](https://www.facebook.com/narzisnaharsusoma/)
+
 
 <p>I believe in the power of community and open-source, and I'm excited to contribute and learn from others. Let's build something amazing together!</p>
-</div>
+
 
 
 
