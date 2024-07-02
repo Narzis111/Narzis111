@@ -9,23 +9,22 @@
   ABOUT ME
 </h2>
 
- <div display="flex"> 
-  <div> <p>
-   Hi there 👋
-I'm Narzis Nahar, a passionate Full Stack Developer with a keen interest in creating efficient, scalable, and user-friendly applications.</p>
+<div style="display: flex; align-items: center;"> 
+  <div style="flex: 1; padding-right: 20px;"> 
+    <p>Hi there 👋</p>
+    <p>I'm Narzis Nahar, a passionate Full Stack Developer with a keen interest in creating efficient, scalable, and user-friendly applications.</p>
+    <p>🔭 I’m currently working on various web and mobile applications, constantly learning and experimenting with new technologies.</p>
+    <p>🌱 I’m always eager to learn new languages and frameworks. Currently, I'm diving deep into Next.js and React Native.</p>
+    <p>👯 I’m looking to collaborate on open-source projects and innovative tech solutions that make a positive impact.</p>
+    <p>💬 Ask me about anything related to web development, cloud computing, or any recent tech trends. I'm always up for a good tech talk!</p>
+    <p>📫 How to reach me: [Your Email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)</p>
+    <p>⚡ Fun fact: When I'm not coding, you can find me exploring nature trails, playing chess, or experimenting with new recipes in the kitchen.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://i.ibb.co/c6VpLXF/IMG-20220713-WA0011.jpg" style="max-width: 100%; border-radius: 10px;" alt="Narzis Nahar"/>
+  </div>
+</div>
 
-<p>🔭 I’m currently working on various web and mobile applications, constantly learning and experimenting with new technologies.</p>
-<p>🌱 I’m always eager to learn new languages and frameworks. Currently, I'm diving deep into Next.js and React Native.</p>
-<p>👯 I’m looking to collaborate on open-source projects and innovative tech solutions that make a positive impact.</p>
-<p>💬 Ask me about anything related to web development, cloud computing, or any recent tech trends. I'm always up for a good tech talk!</p>
-<p>📫 How to reach me: Your Email or connect with me on LinkedIn<p>
-<p>⚡ Fun fact: When I'm not coding, you can find me exploring nature trails, playing chess, or experimenting with new recipes in the kitchen.</p>
-</div>
-<div> 
- <img src="https://i.ibb.co/c6VpLXF/IMG-20220713-WA0011.jpg"/>
-
-</div>
-</div>
 
 
 
@@ -54,6 +53,8 @@ I'm Narzis Nahar, a passionate Full Stack Developer with a keen interest in crea
   
   [<img src="https://i.ibb.co/C8tcfZR/linkedin-1.png">](linkedin.com/in/narzisnahar111/)
 [<img src="https://i.ibb.co/dMhMgBT/facebook-1.png">](https://www.facebook.com/narzisnaharsusoma/)
+
+<p>I believe in the power of community and open-source, and I'm excited to contribute and learn from others. Let's build something amazing together!</p>
 </div>
 
 
